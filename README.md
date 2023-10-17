@@ -1,4 +1,4 @@
-### Hi there 👋
+<img alt="SNQ-2001" src="img/head.svg" width="98.2%" height="100%">
 
 <!--
 **HirokiKinjou/HirokiKinjou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
